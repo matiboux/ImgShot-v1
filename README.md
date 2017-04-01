@@ -1,4 +1,4 @@
-# ImgShot v1.0
+# ImgShot v1.0.1
 
 **ImgShot** is an *open source image hosting service*.  
 It has been created on July 26, 2014.
