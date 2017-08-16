@@ -3,12 +3,13 @@
 **ImgShot** is an *open source image hosting service*.  
 It has been created on July 26, 2014.
 
-This the first version of KeyGen, made using pure PHP source code: without any framework behind it.  
-ImgShot v2 is available and work along with [Oli](https://github.com/OliFramework/Oli), an open source PHP framework made by [myself](https://github.com/matiboux/).
+This the first version of ImgShot, made using pure PHP source code: without any framework behind it.  
+ImgShot v2+ is available and work along with [Oli](https://github.com/OliFramework/Oli), an open source PHP framework made by [myself](https://github.com/matiboux/).
 
 ### Start using it
 
-**You use the service directly with the official ImgShot v1: https://data.matiboux.com/imgshot/.**
+**You can use the service directly with the official ImgShot v1 archive: https://data.matiboux.com/imgshot/.**  
+**Or you can try the latest ImgShot service: https://imgshot.eu/.**
 
 > « Original tastes better »  
 >  \- Mati
@@ -31,7 +32,7 @@ If not, see <http://www.gnu.org/licenses/>.
 
 *You'll find a copy of the GNU GPL v3 license in the **LICENSE** file.*
 
-### About me & the project
+### About me
 
 I'm **Matiboux** (Mathieu Guérin), a young french high school student and developer.
  - **Email**: [matiboux@gmail.com](mailto:matiboux@gmail.com)
